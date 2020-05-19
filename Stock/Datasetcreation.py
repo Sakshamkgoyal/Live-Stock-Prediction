@@ -2,7 +2,7 @@ import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 import time
 
-api_key='8PGDPKVWZSBZ3GPK'
+api_key='XXXXXXXXXXXXXXXX'
 
 ticker=input("enter the stock:-")
 
